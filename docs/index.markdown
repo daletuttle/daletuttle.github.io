@@ -5,5 +5,3 @@
 layout: home
 ---
 
-
-home page, test test test
